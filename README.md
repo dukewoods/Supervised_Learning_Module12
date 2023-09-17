@@ -1,7 +1,7 @@
 # Supervised Learning - Home Work Week 6
 
 ## Credit Risk Model Overview
-This model is designed to predict risky loans within a data-set of loans using Logistic Regression. 
+This <a href="credit_risk_resampling.ipynb" target="_blank">Model</a> is designed to predict risky loans within a data-set of loans using Logistic Regression. 
 The specific data that the model is used to train on had the following data; loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, total debt and loans status. Loans status was the target data that the model was trying to predict whether the loans were risky or not. 
 I used value_counts() function to see if the data set was imbalanced, as it is I therefor used the RandomOverSampler module to balance the data. 
 The process I went through to analyse the data was the following:    

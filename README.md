@@ -1,4 +1,4 @@
-# Supervised Learning - Home Work Week 6
+# Supervised Learning - Home Work Week 12
 
 ## Credit Risk Model Overview
 This <a href="credit_risk_resampling.ipynb" target="_blank">Model</a> is designed to predict risky loans within a data-set of loans using Logistic Regression. 
